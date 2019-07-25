@@ -2,12 +2,6 @@
 
 # Lab | Matplotlib and Seaborn Deep Dive
 
-## Introduction
-
-This lab contains 3 challenges. You should be already familiar with the format of Challenge 1 and 3. You may not be familiar with the format of Challenge 2 yet which is called *[pair programming](https://en.wikipedia.org/wiki/Pair_programming)*. This practice is often used by programmers to improve coding skills by watching another programmer code and providing constructive feedback.
-
-Follow the instructions of your instructor and complete all challenges.
-
 ## Deliverables
 
 - `challenge-1.ipynb`, `challenge-2.ipynb`, and `challenge-3.ipynb` with your responses.
